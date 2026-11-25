@@ -24,3 +24,10 @@ The dataset contains daily records of weekly reported COVID-19 deaths per millio
 ## Preliminary Analysis
 
 The initial analysis compares the average reported weekly COVID-19 deaths per million people across the four countries and examines monthly trends during 2022.
+
+## Preliminary Findings
+
+- South Africa recorded the highest annual average of weekly reported deaths per million people (3.60).
+- Kenya recorded the lowest annual average (0.11).
+- Sudan recorded its highest monthly average in March (4.58).
+- Egypt recorded its highest monthly average in February (3.17).
