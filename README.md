@@ -57,3 +57,9 @@ The initial analysis compares the average reported weekly COVID-19 deaths per mi
 ### Interpretation
 
 The data show differences in reported COVID-19 death rates across the four countries during 2022. South Africa recorded the highest annual average, while Kenya recorded the lowest. Monthly trends also varied between countries, with the highest monthly averages occurring in different months. These findings describe the reported data and do not necessarily explain the causes of the differences.
+
+## Visualisation
+
+### Annual Country Comparison
+
+![Country Comparison Chart](country_comparison_2022.png)
