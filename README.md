@@ -31,3 +31,10 @@ The initial analysis compares the average reported weekly COVID-19 deaths per mi
 - Kenya recorded the lowest annual average (0.11).
 - Sudan recorded its highest monthly average in March (4.58).
 - Egypt recorded its highest monthly average in February (3.17).
+
+## Data Quality Checks
+
+- Each country has 365 daily records.
+- The dataset covers 01 January 2022 to 31 December 2022 for all four countries.
+- No duplicate country-date records were identified.
+- The dataset contains 1,460 records in total.
