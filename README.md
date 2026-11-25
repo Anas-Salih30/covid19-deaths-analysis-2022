@@ -63,3 +63,11 @@ The data show differences in reported COVID-19 death rates across the four count
 ### Annual Country Comparison
 
 ![Country Comparison Chart](country_comparison_2022.png)
+
+## Observation
+
+South Africa recorded a considerably higher annual average of reported weekly COVID-19 deaths per million people than the other three countries in this comparison. The monthly trend also shows a sharp decline after February 2022.
+
+## Next Investigation
+
+Further investigation could explore whether differences in reported COVID-19 death rates are related to differences in reporting practices, healthcare systems, vaccination coverage, or the timing of COVID-19 waves across the four countries.
